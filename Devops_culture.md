@@ -11,7 +11,8 @@
 
 # Draw up a DevOps process and explain what each represents:
 
- ![DevOps Process](https://opensource.com/sites/default/files/uploads/devopsprocesses.png))
+ ![DevOps Process](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
+ 
 **DevOps Process Explanation**
 The DevOps process illustrated in the diagram shows the complete software delivery lifecycle that bridges Development and Operations teams. This represents the continuous flow of activities that enable faster, more reliable software delivery.
 
